@@ -1,0 +1,174 @@
+/* screen - desktop-7 */
+
+.desktop-7 {
+  background-color: rgba(255,255,255,1.0);
+  height: 2032px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.desktop-7 .a-user-exp-e-designer-C61RwL {
+  background-color: transparent;
+  color: var(--prussian-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 739px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  width: auto;
+}
+.desktop-7 .clipart129550-2-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 1176px;
+  position: absolute;
+  top: 1968px;
+  width: 38px;
+}
+.desktop-7 .clipart1308911-2-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 1114px;
+  position: absolute;
+  top: 1968px;
+  width: 38px;
+}
+.desktop-7 .hi-im-C61RwL {
+  background-color: transparent;
+  color: var(--prussian-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 542px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: auto;
+}
+.desktop-7 .img7939-1-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 1330px;
+  position: absolute;
+  top: 11px;
+  width: 60px;
+}
+.desktop-7 .lets-conne-00gmailcom-C61RwL {
+  background-color: transparent;
+  color: var(--regent-st-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1968px;
+  width: 893px;
+}
+.desktop-7 .portfolio-C61RwL {
+  background-color: transparent;
+  color: var(--regent-st-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 223px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 147px;
+}
+.desktop-7 .rebecca-boggs-C61RwL {
+  background-color: transparent;
+  color: var(--prussian-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 588px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 256px;
+  width: 681px;
+}
+.desktop-7 .rectangle-18-C61RwL {
+  background-color: var(--prussian-blue);
+  height: 83px;
+  left: -2px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.desktop-7 .rectangle-20-C61RwL {
+  background-color: var(--prussian-blue);
+  height: 87px;
+  left: 0px;
+  position: absolute;
+  top: 1945px;
+  width: 1440px;
+}
+.desktop-7 .rectangle-282-C61RwL {
+  background-color: rgba(178,214,226,0.63);
+  height: 360px;
+  left: 472px;
+  position: absolute;
+  top: 136px;
+  width: 914px;
+}
+.desktop-7 .resum-C61RwL {
+  background-color: transparent;
+  color: var(--regent-st-blue);
+  font-family: 'Zilla Slab', Helvetica, Arial, serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 134px;
+}
+.desktop-7 .screen-sho-5-at-101-2-C61RwL {
+  background-color: transparent;
+  height: 671px;
+  left: -2px;
+  position: absolute;
+  top: 83px;
+  width: 1442px;
+}
+.desktop-7 .x1200px-med-monogram-1-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 1239px;
+  position: absolute;
+  top: 1968px;
+  width: 38px;
+}
+:root {
+  --prussian-blue: rgba(4,48,83,1.0);
+  --regent-st-blue: rgba(178,214,226,1.0);
+}
